@@ -1,4 +1,4 @@
-# Meta Simple Plguin
+# Meta Simple Plugin
 Meta Inputs (Title, Description, Keywords) for your Story
 
 ## How to use
